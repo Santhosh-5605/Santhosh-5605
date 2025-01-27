@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Santhosh Rajadurai! I’m someone who loves solving real-world problems through data and technology. As a Project Manager at Link Logicx.
+I'm Santhosh Rajadurai, a problem-solver passionate about data and technology. As a Project Manager at Link Logicx, I’ve successfully delivered hardware and software projects. Currently, during my internship at Talentara, I focus on creating impactful analytics using Power BI. I’m also driven by innovation and sustainability, having worked on projects like IoT-based Tram-Bot and plastic recycling for construction.
 
 
 ## 🌐 Socials:
